@@ -1,0 +1,41 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.1,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.3,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.6,no,15.0,Guarded by sharks with lasers on their heads
+h.example.COM,1.1.1.8,NO,11,Faulty fans
+i.example.com,1.1.1.9,no,13,Behind the other routers so no one sees it
+j.EXAMPLE.COM,1.1.1.11,no,12.1,
+k.example.com,1.1.1.12,yes,14,
+l.example.com,1.1.1.13,no,12,Case a bit loose
+m.example.com,1.1.1.14,no,12.3,
+n.example.com,1.1.1.15,No,12.200,
+o.example.com,1.1.1.16,no,15.0,Guarded by sharks with lasers on their heads
+p.example.COM,1.1.1.17,NO,11,Faulty fans
+q.example.com,1.1.1.18,no,13,Behind the other routers so no one sees it
+r.EXAMPLE.COM,1.1.1.19,no,12.1,
+s.example.com,1.1.1.14,yes,14,
+t.example.com,1.1.1.21,no,12,Case a bit loose
+u.example.com,1.1.1.22,no,12.3,
+v.example.com,1.1.1.23,No,12.200,
+w.example.com,1.1.1.24,no,15.0,Guarded by sharks with lasers on their heads
+x.example.COM,1.1.1.25,NO,11,Faulty fans
+y.example.com,1.1.1.26,no,13,Behind the other routers so no one sees it
+aa.EXAMPLE.COM,1.1.1.7,no,12.1,
+ab.example.com,1.1.1.4,yes,14,
+ac.example.com,1.1.1.5,no,12,Case a bit loose
+ad.example.com,1.1.1.6,no,12.3,
+ae.example.com,1.1.1.7,No,12.200,
+af.example.com,1.1.1.6,no,15.0,Guarded by sharks with lasers on their heads
+ag.example.COM,1.1.1.1,NO,11,Faulty fans
+ah.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+a.EXAMPLE.COM,1.1.1.3,no,12.1,
+a.example.com,1.1.1.4,yes,14,
+a.example.com,1.1.1.5,no,12,Case a bit loose
+a.example.com,1.1.1.6,no,12.3,
+a.example.com,1.1.1.7,No,12.200,
+a.example.com,127.0.0.1,no,15.0,Guarded by sharks with lasers on their heads

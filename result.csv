@@ -1,0 +1,19 @@
+RouterDTo{hostName=b.example.com, ipAddress=1.1.1.2, ifPatched=no, osVersion=13.0, notes=Behind the other routers so no one sees it}
+RouterDTo{hostName=C.EXAMPLE.COM, ipAddress=1.1.1.3, ifPatched=no, osVersion=12.1, notes=}
+RouterDTo{hostName=c.example.com, ipAddress=1.1.1.5, ifPatched=no, osVersion=12.0, notes=Case a bit loose}
+RouterDTo{hostName=e.example.com, ipAddress=1.1.1.6, ifPatched=no, osVersion=12.3, notes=}
+RouterDTo{hostName=f.example.com, ipAddress=1.1.1.7, ifPatched=No, osVersion=12.2, notes=}
+RouterDTo{hostName=i.example.com, ipAddress=1.1.1.9, ifPatched=no, osVersion=13.0, notes=Behind the other routers so no one sees it}
+RouterDTo{hostName=j.EXAMPLE.COM, ipAddress=1.1.1.11, ifPatched=no, osVersion=12.1, notes=}
+RouterDTo{hostName=l.example.com, ipAddress=1.1.1.13, ifPatched=no, osVersion=12.0, notes=Case a bit loose}
+RouterDTo{hostName=m.example.com, ipAddress=1.1.1.14, ifPatched=no, osVersion=12.3, notes=}
+RouterDTo{hostName=n.example.com, ipAddress=1.1.1.15, ifPatched=No, osVersion=12.2, notes=}
+RouterDTo{hostName=o.example.com, ipAddress=1.1.1.16, ifPatched=no, osVersion=15.0, notes=Guarded by sharks with lasers on their heads}
+RouterDTo{hostName=q.example.com, ipAddress=1.1.1.18, ifPatched=no, osVersion=13.0, notes=Behind the other routers so no one sees it}
+RouterDTo{hostName=r.EXAMPLE.COM, ipAddress=1.1.1.19, ifPatched=no, osVersion=12.1, notes=}
+RouterDTo{hostName=t.example.com, ipAddress=1.1.1.21, ifPatched=no, osVersion=12.0, notes=Case a bit loose}
+RouterDTo{hostName=u.example.com, ipAddress=1.1.1.22, ifPatched=no, osVersion=12.3, notes=}
+RouterDTo{hostName=v.example.com, ipAddress=1.1.1.23, ifPatched=No, osVersion=12.2, notes=}
+RouterDTo{hostName=w.example.com, ipAddress=1.1.1.24, ifPatched=no, osVersion=15.0, notes=Guarded by sharks with lasers on their heads}
+RouterDTo{hostName=y.example.com, ipAddress=1.1.1.26, ifPatched=no, osVersion=13.0, notes=Behind the other routers so no one sees it}
+RouterDTo{hostName=a.example.com, ipAddress=127.0.0.1, ifPatched=no, osVersion=15.0, notes=Guarded by sharks with lasers on their heads}
